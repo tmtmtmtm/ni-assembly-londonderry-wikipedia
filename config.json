@@ -1,0 +1,10 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Londonderry_(Assembly_constituency)",
+  "wikidata": [{
+    "id": "Q15242679",
+    "start": "1973",
+    "end": "1986"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
